@@ -106,6 +106,10 @@ button {
     padding: 5px 10px;
 }
 
+select {
+    height: 30px;
+}
+
 #footer {
     text-align: center;
 }
