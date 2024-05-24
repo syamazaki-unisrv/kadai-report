@@ -30,6 +30,10 @@ body {
     color: #eeeeee;
 }
 
+h1 a {
+    color: #eeeeee;
+}
+
 #content {
     width: 94%;
     margin-top: 15px;
@@ -76,10 +80,6 @@ tr.row0 {
 h1 {
     font-size: 24px;
     display: inline;
-}
-
-h1 a {
-    color: #eeeeee;
 }
 
 h2 {
